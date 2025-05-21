@@ -103,7 +103,7 @@ st.markdown("""
 
 # 🎓 Bouncing Animated App Title
 
-st.markdown("<h1>🎓 Flashcard Quiz App</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🎓 Learn On The Go </h1>", unsafe_allow_html=True)
 
 
 # 📂 Load or Initialize Flashcards
